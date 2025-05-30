@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "Identifiant de règlement",
+    "amountType": "Type de montant",
+    "amountDescription": "Montant Description",
+    "amount": "Montant",
+    "orderAmount": "Montant de la commande",
+    "expense": "Dépenses",
+    "settlementAmount": "Montant de règlement",
+    "quantityPurchased": "Quantité achetée"
+  }
+}
