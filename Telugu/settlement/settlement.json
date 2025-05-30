@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "సెట్ల్మెంట్ ఐడీ",
+    "amountType": "అమౌంట్ టైప్",
+    "amountDescription": " మొత్తం వివరణ",
+    "amount": "మొత్తం",
+    "orderAmount": "ఆర్డర్ మొత్తం",
+    "expense": "ఖächలు",
+    "settlementAmount": "ఛదువుల మొత్తం",
+    "quantityPurchased": "కొనుగోలు చేసిన పరిమాణం"
+  }
+}
