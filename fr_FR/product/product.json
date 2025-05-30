@@ -1,0 +1,28 @@
+{
+  "product": {
+    "title": "Titre",
+    "currency": "Monnaie",
+    "avatar": "Image",
+    "price": "Prix",
+    "id": "Identifiant du produit",
+    "sku": "Référence produit",
+    "hscode": "Code HSN",
+    "code": "Référence produit",
+    "allocation": "% Allocation",
+    "qty": "Stock en main",
+    "leadtime": "Délai d'expédition",
+    "channel": "Canal",
+    "status": "Statut",
+    "status.all": "Tous",
+    "status.active": "Actif",
+    "status.inactive": "Inactif",
+    "nameRequired": "Veuillez entrer le nom du produit",
+    "idRequired": "Veuillez saisir le numéro de produit",
+    "codeRequired": "Veuillez saisir le code produit",
+    "allocationRequired": "Veuillez saisir le pourcentage d'allocation",
+    "statusRequired": "Veuillez sélectionner le statut activé",
+    "valueRequired": "Veuillez entrer une valeur",
+    "leadtimeRequired": "Veuillez entrer le délai d'expédition",
+    "qtyRequired": "Veuillez entrer le stock en main"
+  }
+}
