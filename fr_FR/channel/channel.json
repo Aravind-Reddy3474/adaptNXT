@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "name": "Nom de la chaîne",
+    "code": "Code de chaîne",
+    "type": "Type de canal",
+    "url": "URL",
+    "key": "Clé",
+    "secret": "Secret",
+    "seller": "Vendeur",
+    "token": "Jeton",
+    "location": "Emplacement",
+    "avatar": "Image",
+    "date": "Date de commande",
+    "status": "Statut",
+    "status.all": "Tous",
+    "status.active": "Actif",
+    "status.inactive": "Inactif",
+    "manageStock": "Gérer les stocks",
+    "manageState": "Synchronisation du statut de commande",
+    "nameRequired": "Veuillez entrer le nom de la chaîne",
+    "codeRequired": "Veuillez saisir le code de la chaîne",
+    "statusRequired": "Veuillez sélectionner l'état activé",
+    "typeRequired": "Veuillez sélectionner le type de canal",
+    "urlRequired": "Veuillez saisir l'URL de l'API",
+    "keyRequired": "Veuillez saisir la clé API",
+    "secretRequired": "Veuillez entrer la clé secrète de l'API",
+    "tokenRequired": "Veuillez saisir le jeton API",
+    "locationRequired": "Veuillez entrer l'identifiant de location de canal",
+    "sellerRequired": "Veuillez saisir l'identifiant du vendeur de chaîne"
+  }
+}
