@@ -1,0 +1,30 @@
+{
+  "orderitem": {
+    "name": "Nom de l'article",
+    "id": "Numéro de commande",
+    "channel": "Canal",
+    "courier": "Service de livraison",
+    "value": "Valeur de commande",
+    "date": "Date de commande",
+    "sku": "SKU",
+    "qty": "Article Qté",
+    "returnqty": "Quantité de retour",
+    "acceptqty": "Accepter la quantité",
+    "rejectqty": "Rejeter Qté",
+    "price": "Prix de l'article",
+    "sub_total": "Sous-total",
+    "total": "Total",
+    "addr": "Adresse",
+    "zipcode": "Code postal",
+    "status": "Statut",
+    "status.all": "Tout",
+    "status.pending": "En attente",
+    "status.confirmed": "Confirmé",
+    "status.cancelled": "Annulé",
+    "status.shipped": "Expédié",
+    "nameRequired": "Veuillez saisir le nom de l'article de commande",
+    "idRequired": "Veuillez saisir le numéro de l'article de commande",
+    "statusRequired": "Veuillez sélectionner le statut activé",
+    "valueRequired": "Veuillez entrer une valeur"
+  }
+}
