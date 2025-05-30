@@ -1,0 +1,12 @@
+{
+  "permission": {
+    "role.name": "ભૂમિકા નામ",
+    "role.code": "ભૂમિકા કોડ",
+    "role.status": "સ્થિતિ",
+    "role.status.all": "બધા",
+    "role.status.disabled": "અસક્ષમ",
+    "role.nameRequired": "કૃપા કરીને ભૂમિકા નામ દાખલ કરો",
+    "role.codeRequired": "કૃપા કરીને ભૂમિકા કોડ દાખલ કરો",
+    "role.statusRequired": "ક્રિપા કરીને સક્ષમ સ્થિતિ પસંદ કરો"
+  }
+}
