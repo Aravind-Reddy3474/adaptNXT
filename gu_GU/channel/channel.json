@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "name": "ચેનલ નામ",
+    "code": "ચારલ કોડ",
+    "type": "ચેનલ પ્રકાર",
+    "url": "યુઆરએલ",
+    "key": "કી",
+    "secret": "રહસ્ય",
+    "seller": "વેચેતા",
+    "token": "ટોકન",
+    "location": "સ્થાન",
+    "avatar": "છબી",
+    "date": "ઓર્ડર તારીખ",
+    "status": "સ્થિતિ",
+    "status.all": "બધા",
+    "status.active": "સક્રિય",
+    "status.inactive": "અસક્રિય",
+    "manageStock": "સ્ટોક મેનેજ કરો",
+    "manageState": "ઓર્ડર સ્થિતિ સંકળન",
+    "nameRequired": "કૃપા કરીને ચેનલનું નામ દાખલ કરો",
+    "codeRequired": "કૃપા કરીને ચેનલ કોર દાખલ કરો",
+    "statusRequired": "કૃપા કરીને સક્રિય સ્થિતિ પસંદ કરો",
+    "typeRequired": "કૃપા કરીને ચેનલ પ્રકાર પસંદ કરો",
+    "urlRequired": "કૃપા કરીને API URL દાખલ કરો",
+    "keyRequired": "મહેરબાનીને API કી દાખલ કરો",
+    "secretRequired": "કૃપા કરી API સિક્રેટ દાખલ કરો",
+    "tokenRequired": "કૃપા કરીને API ટોકન દાખલ કરો",
+    "locationRequired": "કૃપા કરીને ચેનલ લોકેશન આઈડી દાખલ કરો",
+    "sellerRequired": "કૃપા કરીને ચેનલ સેલર આઈડી દાખલ કરો"
+  }
+}
