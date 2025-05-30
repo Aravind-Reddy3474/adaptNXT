@@ -1,0 +1,8 @@
+{
+  "tagsView": {
+    "operation.closeCurrent": "Fermer actuel",
+    "operation.closeOther": "Fermer autre",
+    "operation.closeAll": "Fermer tout",
+    "operation.dashboard": "Tableau de bord"
+  }
+}
