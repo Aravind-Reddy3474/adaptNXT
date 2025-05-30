@@ -1,0 +1,27 @@
+{
+  "dashboard": {
+    "overview.totalSales": "کل فروخت",
+    "overview.visits": "دورے",
+    "overview.orders": "احکامات",
+    "overview.payments": "ادائیگیاں",
+    "overview.sales": "فروخت",
+    "overview.operationalEffect": "عملیاتی اثر",
+    "overview.wowChange": "واؤ تبدیلی",
+    "overview.weekly": "ہفتہ واری",
+    "overview.monthly": "ماہانہ",
+    "overview.dodChange": "ڈی او ڈی تبدیلی",
+    "overview.dailySales": "روزانہ کی فروخت",
+    "overview.dailyOrders": "روزانہ کے احکامات",
+    "overview.visits.dailyVisits": "روزانہ دورے",
+    "overview.conversionRate": "تبدیلی کی شرح",
+    "salePercent.proportionOfSales": "سیلز کا تناسب",
+    "salePercent.all": "سب",
+    "salePercent.online": "آن لائن",
+    "salePercent.offline": "آف لائن",
+    "salePercent.cod": "کوڈ",
+    "timeline.traffic": "ٹریفک",
+    "timeline.payments": "ادائیگیاں",
+    "timeline.orders": "احکامات",
+    "timeline.sales": "سیلز"
+  }
+}
