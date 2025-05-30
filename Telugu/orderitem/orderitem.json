@@ -1,0 +1,30 @@
+{
+  "orderitem": {
+    "name": "అంశం పేరు",
+    "id": "ఆదేశ సంఖ్య",
+    "channel": "చానెల్",
+    "courier": "షిప్పింగ్ సేవ",
+    "value": "ఆర్డర్ విలువ",
+    "date": "ఆర్డర్ తేదీ",
+    "sku": "SKU",
+    "qty": "అంశం పరిమాణం",
+    "returnqty": "తిరిగి వచ్చే పరిమాణం",
+    "acceptqty": "గ్రహించు పరిమాణం",
+    "rejectqty": "అంగీకరించిన పరిమాణం",
+    "price": "వస్తువు ధర",
+    "sub_total": "సబ్ టోటల్",
+    "total": "మొత్తం",
+    "addr": "చిరునామా",
+    "zipcode": "జిప్ కోడ్",
+    "status": "స్థితి",
+    "status.all": "అన్నీ",
+    "status.pending": "ప్రైము",
+    "status.confirmed": "దృవీకరించారు",
+    "status.cancelled": "రద్దు అయినది",
+    "status.shipped": "చెల్లించబడి",
+    "nameRequired": "ఆర్డర్ ఆITEM పేరు ఇన్పుట్ చేయండి",
+    "idRequired": "క్రుంచు సంఖ్యను నమోదు చేయండి",
+    "statusRequired": "దయచేసి సక్రియమైన స్థితిని ఎంచుకోండి",
+    "valueRequired": "దయచేసి ఒక విలువను ఇన్పుట్ చేయండి"
+  }
+}
