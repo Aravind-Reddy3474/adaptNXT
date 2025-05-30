@@ -1,0 +1,12 @@
+{
+  "permission": {
+    "role.name": "نقش کا نام",
+    "role.code": "کردار کا کوڈ",
+    "role.status": "حیثیت",
+    "role.status.all": "سب",
+    "role.status.disabled": "معذور",
+    "role.nameRequired": "براہ کرم کردار کا نام درج کریں",
+    "role.codeRequired": "براہ کرم کردار کا کوڈ درج کریں",
+    "role.statusRequired": "براہ کرم فعال حیثیت منتخب کریں"
+  }
+}
