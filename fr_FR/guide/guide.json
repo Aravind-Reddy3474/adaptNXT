@@ -1,0 +1,22 @@
+{
+  "guide": {
+    "guideIntro": "La page de guide est utile pour certaines personnes qui entrent dans le projet pour la première fois. Vous pouvez brièvement présenter les fonctionnalités du projet. La démo est basée sur",
+    "showGuide": "Guide d'affichage",
+    "driverjs.closeBtnText": "Fermer",
+    "driverjs.prevBtnText": "Précédent",
+    "driverjs.nextBtnText": "Suivant",
+    "driverjs.doneBtnText": "Fait",
+    "driverStep.sidebarTrigger.title": "Déclencheur de barre latérale",
+    "driverStep.sidebarTrigger.description": "Ouvrir et fermer la barre latérale",
+    "driverStep.notices.title": "Avis",
+    "driverStep.notices.description": "Tous les messages de notification seront affichés ici",
+    "driverStep.switchLanguages.title": "Changer de langue",
+    "driverStep.switchLanguages.description": "Vous pouvez cliquer ici pour changer de langue",
+    "driverStep.pageTabs.title": "Onglets de page",
+    "driverStep.pageTabs.description": "L'historique de la page que vous avez visitée sera affiché ici",
+    "driverStep.pageTabsActions.title": "Onglets de page Actions",
+    "driverStep.pageTabsActions.description": "Cliquez ici pour effectuer des opérations rapides sur les onglets de page",
+    "driverStep.switchTheme.title": "Changer de thème",
+    "driverStep.switchTheme.description": "Cliquez ici pour changer la couleur du thème du système"
+  }
+}
