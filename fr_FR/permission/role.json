@@ -1,0 +1,12 @@
+{
+  "permission": {
+    "role.name": "Nom du rôle",
+    "role.code": "Code de rôle",
+    "role.status": "Statut",
+    "role.status.all": "Tous",
+    "role.status.disabled": "Désactivé",
+    "role.nameRequired": "Veuillez saisir le nom du rôle",
+    "role.codeRequired": "Veuillez saisir le code de rôle",
+    "role.statusRequired": "Veuillez sélectionner le statut activé"
+  }
+}
