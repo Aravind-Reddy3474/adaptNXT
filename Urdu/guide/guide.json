@@ -1,0 +1,22 @@
+{
+  "guide": {
+    "guideIntro": "رہنمائی کا صفحہ ان لوگوں کے لئے مفید ہے جو پہلی بار منصوبے میں داخل ہوئے ہیں آپ منصوبے کی خصوصیات کا مختصر تعارف دے سکتے ہیں ڈیمو پر مبنی ہے",
+    "showGuide": "گائیڈ دکھائیں",
+    "driverjs.closeBtnText": "بند کرو",
+    "driverjs.prevBtnText": "پچھلا",
+    "driverjs.nextBtnText": "اگلا",
+    "driverjs.doneBtnText": "ہو گیا",
+    "driverStep.sidebarTrigger.title": "سائیڈبار ٹرگر",
+    "driverStep.sidebarTrigger.description": "سائیڈبار کو کھولیں اور بند کریں",
+    "driverStep.notices.title": "نوٹس",
+    "driverStep.notices.description": "یہاں تمام نوٹیفیکیشن پیغامات دکھائے جائیں گے",
+    "driverStep.switchLanguages.title": "زبانیں تبدیل کریں",
+    "driverStep.switchLanguages.description": "آپ یہاں کلک کرکے زبانیں بدل سکتے ہیں",
+    "driverStep.pageTabs.title": "صفحے کے ٹیب",
+    "driverStep.pageTabs.description": "آپ کے وزٹ کردہ صفحے کی تاریخ یہاں دکھائی جائے گی",
+    "driverStep.pageTabsActions.title": "صفحہ ٹیب کارروائیاں",
+    "driverStep.pageTabsActions.description": "یہاں کلک کریں تاکہ صفحے کے ٹیبز پر کچھ فوری کارروائیاں کی جا سکیں",
+    "driverStep.switchTheme.title": "تھیم تبدیل کریں",
+    "driverStep.switchTheme.description": "یہاں کلک کریں سسٹم کے تھیم کا رنگ تبدیل کرنے کے لیے"
+  }
+}
