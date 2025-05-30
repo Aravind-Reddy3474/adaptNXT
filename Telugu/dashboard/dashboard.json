@@ -1,0 +1,27 @@
+{
+  "dashboard": {
+    "overview.totalSales": "మొత్తం అమ్మకాలు",
+    "overview.visits": "సంభాషణలు",
+    "overview.orders": "ఆదేశాలు",
+    "overview.payments": "చెల్లింపులు",
+    "overview.sales": "అమ్మకం",
+    "overview.operationalEffect": "ప్రాయోగిక ప్రభావం",
+    "overview.wowChange": "వోవ్ మార్పు",
+    "overview.weekly": "ఆసాంతం",
+    "overview.monthly": "మాసిక",
+    "overview.dodChange": "డోడ్ మారింపు",
+    "overview.dailySales": "ప్రతిరోజు అమ్మకాలు",
+    "overview.dailyOrders": "రోజువారీ ఆర్డర్లను",
+    "overview.visits.dailyVisits": "ప్రతి రోజు సందర్శనలు",
+    "overview.conversionRate": "మలచు రేటు",
+    "salePercent.proportionOfSales": "అమ్మకాలకు సంబంధించిన నిష్పత్తి",
+    "salePercent.all": "అన్నీ",
+    "salePercent.online": "ఆన్లైన్",
+    "salePercent.offline": "ఆఫ్లైన్",
+    "salePercent.cod": "కోడ్",
+    "timeline.traffic": "ట్రాఫిక్",
+    "timeline.payments": "ఉపయోగాలు",
+    "timeline.orders": "ఆజ్ఞలు",
+    "timeline.sales": "అమ్మకాల"
+  }
+}
