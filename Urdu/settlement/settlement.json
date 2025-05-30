@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "آبادی کی شناخت",
+    "amountType": "رقم کی قسم",
+    "amountDescription": "رقم کی تفصیل",
+    "amount": "رقم",
+    "orderAmount": "آرڈر کی مقدار",
+    "expense": "اخراجات",
+    "settlementAmount": "تقریباً رقم",
+    "quantityPurchased": "خریدا گیا مقدار"
+  }
+}
