@@ -1,0 +1,12 @@
+{
+  "permission": {
+    "role.name": "పాత్ర పేరు",
+    "role.code": "భూమిక కోడ్",
+    "role.status": "స్థhiti",
+    "role.status.all": "అన్నీ",
+    "role.status.disabled": "చాల్లగు",
+    "role.nameRequired": "దయచేసి పాత్ర పేరు నమోదు చేయండి",
+    "role.codeRequired": "దయచేసి పాత్ర కోడ్‌ను నమోదు చేయండి",
+    "role.statusRequired": "దయచేసి యోచించబడిన స్థితిని ఎంచుకోండి"
+  }
+}
