@@ -1,0 +1,11 @@
+{
+  "component": {
+    "search.request": "લાખણી",
+    "search.reset": "ફિરથી સેટ કરો",
+    "search.export": "નિકાસ",
+    "search.name": "નામ",
+    "search.sex": "સેકસ",
+    "search.male": "પુરુષ",
+    "search.female": "સ્ત્રી"
+  }
+}
