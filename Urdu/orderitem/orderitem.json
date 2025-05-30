@@ -1,0 +1,30 @@
+{
+  "orderitem": {
+    "name": "آئٹم کا نام",
+    "id": "آرڈر نمبر",
+    "channel": "چینل",
+    "courier": "شپنگ سروس",
+    "value": "آرڈر کی قیمت",
+    "date": "آرڈر کی تاریخ",
+    "sku": "ایس کے یو",
+    "qty": "آئٹم مقدار",
+    "returnqty": "واپسی کی مقدار",
+    "acceptqty": "مقدار قبول کریں",
+    "rejectqty": "عدد مسترد کریں",
+    "price": "آئٹم کی قیمت",
+    "sub_total": "ذیلی مجموعہ",
+    "total": "کل",
+    "addr": "پتہ",
+    "zipcode": "زپ کوڈ",
+    "status": "حالت",
+    "status.all": "سب",
+    "status.pending": "زیر التواء",
+    "status.confirmed": "تصدیق شدہ",
+    "status.cancelled": "منسوخ",
+    "status.shipped": "جہاز پر چڑھایا گیا",
+    "nameRequired": "براہ کرم آرڈر آئٹم کا نام درج کریں",
+    "idRequired": "براہ کرم آرڈر آئٹم نمبر درج کریں",
+    "statusRequired": "براہ کرم فعال حیثیت منتخب کریں",
+    "valueRequired": "براہ کرم ایک قیمت داخل کریں"
+  }
+}
