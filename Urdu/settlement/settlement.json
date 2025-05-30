@@ -1,12 +1,12 @@
 {
   "settlement": {
-    "id": "آبادی کی شناخت",
+    "id": "سیٹلمنٹ آئی ڈی",
     "amountType": "رقم کی قسم",
     "amountDescription": "رقم کی تفصیل",
     "amount": "رقم",
-    "orderAmount": "آرڈر کی مقدار",
+    "orderAmount": "آرڈر کی رقم",
     "expense": "اخراجات",
-    "settlementAmount": "تقریباً رقم",
-    "quantityPurchased": "خریدا گیا مقدار"
+    "settlementAmount": "تسلیمی رقم",
+    "quantityPurchased": "خریدی گئی مقدار"
   }
 }
