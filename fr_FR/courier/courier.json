@@ -1,0 +1,18 @@
+{
+  "courier": {
+    "name": "Nom du coursier",
+    "pickupLocation": "Lieu de prise en charge",
+    "id": "Courrier Non",
+    "code": "Code",
+    "avatar": "Image",
+    "date": "Date de commande",
+    "status": "Statut",
+    "status.all": "Tout",
+    "status.active": "Actif",
+    "status.inactive": "Inactif",
+    "nameRequired": "Veuillez saisir le nom du coursier",
+    "idRequired": "Veuillez saisir le numéro du coursier",
+    "codeRequired": "Veuillez saisir le code",
+    "statusRequired": "Veuillez sélectionner le statut activé"
+  }
+}
