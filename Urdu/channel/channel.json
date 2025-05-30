@@ -1,0 +1,31 @@
+{
+  "channel": {
+    "name": "چینل کا نام",
+    "code": "چینل کوڈ",
+    "type": "چینل کی قسم",
+    "url": "یو آر ایل",
+    "key": "چابی",
+    "secret": "راز",
+    "seller": "فروخت کنندہ",
+    "token": "ٹوکِن",
+    "location": "مقام",
+    "avatar": "تصویر",
+    "date": "آرڈر کی تاریخ",
+    "status": "حالت",
+    "status.all": "سب",
+    "status.active": "فعال",
+    "status.inactive": "غیر فعال",
+    "manageStock": "اسٹاک کا انتظام کریں",
+    "manageState": "آرڈر کی حیثیت ہم آہنگ کریں",
+    "nameRequired": "براہ کرم چینل کا نام درج کریں",
+    "codeRequired": "براہ کرم چینل کوڈ درج کریں",
+    "statusRequired": "براہ کرم فعال حیثیت کا انتخاب کریں",
+    "typeRequired": "براہ کرم چینل کی قسم منتخب کریں",
+    "urlRequired": "براہ کرم ایپی آئی یو آر ایل درج کریں",
+    "keyRequired": "براہ مہربانی ای پی آئی کی چابی داخل کریں",
+    "secretRequired": "براہ کرم API سکرٹ داخل کریں",
+    "tokenRequired": "براہ کرم API ٹوکن داخل کریں",
+    "locationRequired": "براہ کرم چینل لوکیشن آئی ڈی درج کریں",
+    "sellerRequired": "براہ کرم چینل سیلر آئی ڈی درج کریں"
+  }
+}
