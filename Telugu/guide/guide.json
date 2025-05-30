@@ -1,0 +1,22 @@
+{
+  "guide": {
+    "guideIntro": "గైడ్ పేజీ మొదటిసారి ప్రాజెక్ట్‌లో ప్రవేశించిన కొంతమంది వ్యక్తులకు ఉపయోగకరంగా ఉంటుంది. మీరు ప్రాజెక్ట్ యొక్క ఫీచర్లను సంక్షిప్తంగా పరిచయం చేయవచ్చు. డెమో ఆధారంగా ఉంది",
+    "showGuide": "ప్రదర్శన గైడ్",
+    "driverjs.closeBtnText": "మూసు",
+    "driverjs.prevBtnText": "మునుపటి",
+    "driverjs.nextBtnText": "తర్వాత",
+    "driverjs.doneBtnText": "చేయబడ్డది",
+    "driverStep.sidebarTrigger.title": "సైడ్‌బార్ ట్రిగ్గర్",
+    "driverStep.sidebarTrigger.description": "సైడ్‌బార్‌ను తెరవండి మరియు మూసండి",
+    "driverStep.notices.title": "విద్యుత్",
+    "driverStep.notices.description": "అన్నీ సమాచార సందేశాలు ఇక్కడ చూపిస్తాయి",
+    "driverStep.switchLanguages.title": "భాషలను మార్చు",
+    "driverStep.switchLanguages.description": "మీరు భాషలను మార్పు చేసేందుకు ఇక్కడ క్లిక్ చేయవచ్చు",
+    "driverStep.pageTabs.title": "పేజీ టాబ్స్",
+    "driverStep.pageTabs.description": "మీ సందర్శించిన పేజీలో చరిత్ర ఇక్కడ చూపించబడుతుంది",
+    "driverStep.pageTabsActions.title": "పేజీ ట్యాబ్‌లు చర్యలు",
+    "driverStep.pageTabsActions.description": "ఇక్కడ క్లిక్ చేయండి పేజీ టాబ్స్‌కు కొన్ని తేలికపాటి ఆపరేషన్‌లు చేయండి",
+    "driverStep.switchTheme.title": "థీమ్ మార్చండి",
+    "driverStep.switchTheme.description": "ఇక్కడ నొక్కండి వ్యవస్థ థీమ్ రంగు మార్చడానికి"
+  }
+}
