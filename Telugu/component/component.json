@@ -1,0 +1,11 @@
+{
+  "component": {
+    "search.request": "ఎదురు చూపులు",
+    "search.reset": "తాజా చేయు",
+    "search.export": "ఎక్స్‌పోర్ట్",
+    "search.name": " పేరు",
+    "search.sex": "లైంగికత",
+    "search.male": "పురుషుడు",
+    "search.female": "హాను"
+  }
+}
