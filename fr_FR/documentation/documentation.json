@@ -1,0 +1,14 @@
+{
+  "documentation": {
+    "introduction.title": "Introduction",
+    "introduction.description": "PointNXT est un modèle de système de gestion en arrière-plan de niveau entreprise basé sur react et ant-design Utilisez la dernière API des hooks React au lieu de l'API de classe traditionnelle Typescript a également été utilisé pour standardiser la lisibilité et la maintenabilité du code améliorant l'efficacité du développement Utilisez redux comme bibliothèque de gestion de l'état mondial Ce projet vous permet de développer rapidement un nouveau modèle de projet et de supprimer une partie du code selon vos besoins Si vous n'avez pas besoin d'utiliser des modèles Ce projet sera également une bonne ressource pour apprendre react et typescript De plus si vous pensez que ce projet vaut la peine d'être optimisé ou modifié n'hésitez pas à demander mes coordonnées seront affichées au bas de l'article",
+    "catalogue.title": "Catalogue",
+    "catalogue.description": "Cliquez sur le catalogue pour accéder rapidement au contenu spécifié",
+    "catalogue.list.layout": "Mise en page",
+    "catalogue.list.routes": "Routes",
+    "catalogue.list.request": "Demande HTTP",
+    "catalogue.list.theme": "Thème",
+    "catalogue.list.typescript": "TypeScript",
+    "catalogue.list.international": "international"
+  }
+}
