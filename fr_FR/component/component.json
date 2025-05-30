@@ -1,0 +1,11 @@
+{
+  "component": {
+    "search.request": "Demande",
+    "search.reset": "Réinitialiser",
+    "search.export": "Exporter",
+    "search.name": "Nom",
+    "search.sex": "sexe",
+    "search.male": "Mâle",
+    "search.female": "Femme"
+  }
+}
