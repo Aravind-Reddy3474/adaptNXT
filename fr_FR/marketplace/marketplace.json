@@ -1,0 +1,22 @@
+{
+  "marketplace": {
+    "name": "Nom",
+    "id": "Non",
+    "code": "Code",
+    "currency": "Monnaie par défaut",
+    "currency.inr": "Roupies indiennes",
+    "currency.usd": "Dollars américains",
+    "currency.ukp": "livres sterling",
+    "currency.eur": "Euro",
+    "avatar": "Image",
+    "date": "Date de commande",
+    "status": "État",
+    "status.all": "Tout",
+    "status.active": "Actif",
+    "status.inactive": "inactif",
+    "nameRequired": "Veuillez saisir le nom du marché",
+    "idRequired": "Veuillez saisir le numéro du marché",
+    "codeRequired": "Veuillez saisir le code",
+    "statusRequired": "Veuillez sélectionner le statut activé"
+  }
+}
