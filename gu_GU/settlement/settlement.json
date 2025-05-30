@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "પરિવાર નંબર",
+    "amountType": "ઠેકા પ્રકાર",
+    "amountDescription": " રકમ વર્ણન",
+    "amount": "રકમ",
+    "orderAmount": "આદેશ રકમ",
+    "expense": "ખર્ચ",
+    "settlementAmount": "ેલીયરરજુજટ",
+    "quantityPurchased": "ખરીદીની માત્રા"
+  }
+}
