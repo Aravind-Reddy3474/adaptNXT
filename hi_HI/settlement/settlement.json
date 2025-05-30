@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "निवेश पहचान",
+    "amountType": "राशि प्रकार",
+    "amountDescription": "राशि विवरण",
+    "amount": "राशि",
+    "orderAmount": "आदेश राशि",
+    "expense": "व्यय",
+    "settlementAmount": "निपटारा राशि",
+    "quantityPurchased": "खरदी गई मात्रा"
+  }
+}
