@@ -1,0 +1,28 @@
+{
+  "product": {
+    "title": "શીર્ષક",
+    "currency": "કરન્સી",
+    "avatar": "ચિત્ર",
+    "price": "દામ",
+    "id": "ઉત્પાદન આઈડી",
+    "sku": "પ્રોડક્ટ SKU",
+    "hscode": "એચએસએન કોડ",
+    "code": "ઉત્પાદન SKU",
+    "allocation": "% ફાળવણી",
+    "qty": "હાથમાં સ્ટોક",
+    "leadtime": "શિપ માટેનું લીડ ટાઇમ",
+    "channel": "ચેનલ",
+    "status": "સ્થિતિ",
+    "status.all": "બધા",
+    "status.active": "સક્રિય",
+    "status.inactive": "જરૂરી નથી",
+    "nameRequired": "કૃપા કરીને ઉત્પાદનનું નામ દાખલ કરો",
+    "idRequired": "કૃપા કરીને ઉત્પાદન નંબર દાખલ કરો",
+    "codeRequired": "તમારા ઉત્પાદનોનો કોડ દાખલ કરો",
+    "allocationRequired": "કૃપા કરીને % વિતરણ દાખલ કરો",
+    "statusRequired": "બધા કાર્યરત સ્થિતિ પસંદ કરો",
+    "valueRequired": "કૃપા કરીને એક મૂલ્ય દાખલ કરો",
+    "leadtimeRequired": "કૃપા કરીને મોકલવાની થવાની સમયનો સમય દાખલ કરો",
+    "qtyRequired": "કૃપા કરીને હાથમાં સ્ટોક દાખલ કરો"
+  }
+}
