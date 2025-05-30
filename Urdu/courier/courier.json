@@ -1,0 +1,18 @@
+{
+  "courier": {
+    "name": "کورئیر کا نام",
+    "pickupLocation": "پک اپ لوکیشن",
+    "id": "کورئیر نمبر",
+    "code": "کوڈ",
+    "avatar": "تصویر",
+    "date": "آرڈر کی تاریخ",
+    "status": "حالت",
+    "status.all": "سب",
+    "status.active": "فعال",
+    "status.inactive": "غیر فعال",
+    "nameRequired": "براہ کرم کورئیر کا نام داخل کریں",
+    "idRequired": "براہ کرم کوریئر نمبر درج کریں",
+    "codeRequired": "براہ کرم کوڈ درج کریں",
+    "statusRequired": "براہ کرم فعال حیثیت منتخب کریں"
+  }
+}
