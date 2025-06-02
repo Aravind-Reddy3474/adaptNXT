@@ -1,6 +1,7 @@
 {
 	"channel": {
 		"name": "Channel Name",
+		"subname": "Name",
 		"code": "Channel Code",
 		"type": "Channel Type",
 		"url": "Url",
