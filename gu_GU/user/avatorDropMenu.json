@@ -1,8 +1,8 @@
 {
-  "header.avator.account": "ખાતું",
-  "header.avator.logout": "સાઇન આઉટ",
-  "global.theme.switchTheme": "થિમ બદલો",
-  "global.theme.switchingTheme": "થીમ બદલવું...",
-  "global.theme.switchThemeDone": "થીમ સફળતાપૂર્વક અપડેટ કર્યું!",
-  "global.theme.switchThemeFail": "થીમ અપડેટ નિષ્ફળ"
+  "header.avator.account": "Mi cuenta",
+  "header.avator.logout": "Cerrar sesión",
+  "global.theme.switchTheme": "Cambiar tema",
+  "global.theme.switchingTheme": "Cambiando tema...",
+  "global.theme.switchThemeDone": "Tema actualizado con éxito!",
+  "global.theme.switchThemeFail": "Error al actualizar el tema"
 }
