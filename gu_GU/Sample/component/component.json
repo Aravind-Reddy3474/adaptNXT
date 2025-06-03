@@ -1,0 +1,11 @@
+{
+  "component": {
+    "search.request": "Get Info",
+    "search.reset": "Start Over",
+    "search.export": "Download",
+    "search.name": "Full Name",
+    "search.sex": "Gender",
+    "search.male": "Man",
+    "search.female": "Woman"
+  }
+}
