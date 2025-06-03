@@ -1,19 +1,19 @@
 {
   "common": {
-    "okText": "બરાબર",
-    "closeText": "બંધ કરવું",
-    "cancelText": "રદ કરો",
-    "loadingText": "લોડ થઈ રહ્યું છે...",
-    "saveText": "સાચવો",
-    "delText": "હટાવો",
-    "resetText": "પુનઃસેટ",
-    "searchText": "શોધો",
-    "queryText": "શોધો",
-    "inputText": "કૃપા કરીને પ્રવેશ કરો",
-    "chooseText": "કૃપા કરી પસંદ કરો",
-    "redo": "રિફ્રેશ",
-    "back": "પાછો",
-    "light": "પ્રકાશ",
-    "dark": "સ્મરણ"
+    "okText": "Got it",
+    "closeText": "Close",
+    "cancelText": "Cancel",
+    "loadingText": "Loading...",
+    "saveText": "Save",
+    "delText": "Delete",
+    "resetText": "Reset",
+    "searchText": "Search",
+    "queryText": "Search",
+    "inputText": "Please enter",
+    "chooseText": "Please choose",
+    "redo": "Refresh",
+    "back": "Back",
+    "light": "Light",
+    "dark": "Dark"
   }
 }
