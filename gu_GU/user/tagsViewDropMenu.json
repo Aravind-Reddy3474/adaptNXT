@@ -1,8 +1,8 @@
 {
   "tagsView": {
-    "operation.closeCurrent": "વર્તમાન બંધ કરો",
-    "operation.closeOther": "બંદ કરો અન્ય",
-    "operation.closeAll": "બંદ કરો તમામ",
-    "operation.dashboard": "ડેશબોર્ડ"
+    "operation.closeCurrent": "Close This Tab",
+    "operation.closeOther": "Close Other Tabs",
+    "operation.closeAll": "Close All Tabs",
+    "operation.dashboard": "Dashboard"
   }
 }
