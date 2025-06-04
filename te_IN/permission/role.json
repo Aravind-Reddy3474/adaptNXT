@@ -1,0 +1,13 @@
+{
+  "permission": {
+    "role.name": "భూమిక పేరు",
+    "role.code": "భూమిక కోడ్",
+    "role.status": "స్థితి",
+    "role.status.all": "అన్ని",
+    "role.status.enabled": "ప్రవేశం పొందింది",
+    "role.status.disabled": "ప్రవేశం పొందలేదు",
+    "role.nameRequired": "దయచేసి భూమిక పేరును నమోదు చేయండి",
+    "role.codeRequired": "దయచేసి భూమిక కోడును నమోదు చేయండి",
+    "role.statusRequired": "దయచేసి ప్రవేశించబడిన స్థితిని ఎంచుకోండి"
+  }
+}
