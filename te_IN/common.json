@@ -1,0 +1,19 @@
+{
+  "common": {
+    "okText": "సరే",
+    "closeText": "మొదలుపు",
+    "cancelText": "ప్రతి",
+    "loadingText": "లోడింగ్...",
+    "saveText": "సేవ్",
+    "delText": "తొలగించు",
+    "resetText": "మరల అమర్చు",
+    "searchText": "శోధించు",
+    "queryText": "శోధించు",
+    "inputText": "దయచేసి నమోదు చేయండి",
+    "chooseText": "దయచేసి ఎంచుకోండి",
+    "redo": "పునరుత్పత్తి",
+    "back": "తిరిగి",
+    "light": "తీవ్రమైన",
+    "dark": "ఊహించు"
+  }
+}
