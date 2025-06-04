@@ -1,0 +1,18 @@
+{
+  "courier": {
+    "name": "Courier Name",
+    "pickupLocation": "Pickup Location",
+    "id": "Courier Number",
+    "code": "Code",
+    "avatar": "Image",
+    "date": "Order Date",
+    "status": "Status",
+    "status.all": "All",
+    "status.active": "Active",
+    "status.inactive": "Inactive",
+    "nameRequired": "Please enter the courier name",
+    "idRequired": "Please enter the courier number",
+    "codeRequired": "Please enter the code",
+    "statusRequired": "Please select the status"
+  }
+}
