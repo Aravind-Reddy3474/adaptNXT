@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "సెటిల్‌మెంట్ ఐదు",
+    "amountType": "గణన రకం",
+    "amountDescription": "గణన వివరణ",
+    "amount": "గణన",
+    "orderAmount": "ఆర్డర్ గణన",
+    "expense": "ఖర్చులు",
+    "settlementAmount": "సెటిల్‌మెంట్ గణన",
+    "quantityPurchased": "ఖరీఝిఎంచిన పొదుపు"
+  }
+}
