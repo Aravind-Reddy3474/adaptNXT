@@ -27,7 +27,7 @@
     "secretRequired": "कृपया API गुप्त प्रदान करें",
     "tokenRequired": "कृपया API टोकन प्रदान करें",
     "locationRequired": "कृपया चैनल स्थान Id प्रदान करें",
-    "sellerRequired": "कृपया चैनल बिक्री Id प्रदान करें",
-    "Test": "door"
+    "sellerRequired": "कृपया चैनल बिक्री Id प्रदान करें"
+    
   }
 }
