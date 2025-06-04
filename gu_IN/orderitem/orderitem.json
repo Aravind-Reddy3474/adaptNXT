@@ -1,0 +1,30 @@
+{
+  "orderitem": {
+    "name": "વસ્તુનું નામ",
+    "id": "ઓર્ડર નં",
+    "channel": "ચેનલ",
+    "courier": "શિપિંગ સેવા",
+    "value": "ઓર્ડર મૂલ્ય",
+    "date": "ઓર્ડર તારીખ",
+    "sku": "એસ્ક્યુ",
+    "qty": "વસ્તુની માત્રા",
+    "returnqty": "પરત સંખ્યા",
+    "acceptqty": "સ્વીકાર સંખ્યા",
+    "rejectqty": "ખારિજ સંખ્યા",
+    "price": "વસ્તુ કિંમત",
+    "sub_total": "ઉપકુલ કુલ",
+    "total": "કુલ",
+    "addr": "સરનામું",
+    "zipcode": "ઝિપકોડ",
+    "status": "તબક્કો",
+    "status.all": "બધા",
+    "status.pending": "અનિશ્ચિત",
+    "status.confirmed": "પકવાયેલ",
+    "status.cancelled": "રદ",
+    "status.shipped": "મેળવાયું",
+    "nameRequired": "કૃપા કરીને વ્યવસાનું નામ દાખલ કરો",
+    "idRequired": "કૃપા કરીને ઓર્ડર અપનાવાની સંખ્યા દાખલ કરો",
+    "statusRequired": "કૃપા કરીને સક્રિય સ્થિતિ પસંદ કરો",
+    "valueRequired": "કૃપા કરીને મૂલ્ય દાખલ કરો"
+  }
+}
