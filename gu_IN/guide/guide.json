@@ -1,0 +1,22 @@
+{
+  "guide": {
+    "guideIntro": "ગાઈડ પેઝ તે લોકો માટે ઉપયોગી છે જે પહેલવાર પ્રોજેક્ટમાં દાખલ થયા છે. તમે પ્રોજેક્ટના ફીચર્સને સંક્ષેપમાં રજૂ કરી શકો છો. ડેમો આધારિત છે",
+    "showGuide": "ગાઈડ દેખાડો",
+    "driverjs.closeBtnText": "બંધ કરો",
+    "driverjs.prevBtnText": "પહેલાં",
+    "driverjs.nextBtnText": "આગળ",
+    "driverjs.doneBtnText": "વિધિ પૂરી",
+    "driverStep.sidebarTrigger.title": "સાઇડબાર ટ્રિગર",
+    "driverStep.sidebarTrigger.description": "સાઇડબાર ખોલવા અને બંધ કરવા",
+    "driverStep.notices.title": "જાહેરાતો",
+    "driverStep.notices.description": "અહીં તમામ સૂચના સંદેશા દર્શાવવામાં આવશે",
+    "driverStep.switchLanguages.title": "ભાષા બદલવો",
+    "driverStep.switchLanguages.description": "ભાષા બદલવા માટે અહીં ક્લિક કરી શકો છો",
+    "driverStep.pageTabs.title": "પેજ ટેબ",
+    "driverStep.pageTabs.description": "તમે જેને મુલાકાત લીધી તે પેજનો ઇતિહાસ અહીં દર્શાવવામાં આવશે",
+    "driverStep.pageTabsActions.title": "પેજ ટેબ કાર્ય",
+    "driverStep.pageTabsActions.description": "પેજ ટેબ્સ પર ઝડપથી ક્રિયાઓ કરવા માટે અહીં ક્લિક કરો",
+    "driverStep.switchTheme.title": "થીમ બદલવો",
+    "driverStep.switchTheme.description": "સિસ્ટમનો થીમ કલર બદલવા માટે અહીં ક્લિક કરો"
+  }
+}
