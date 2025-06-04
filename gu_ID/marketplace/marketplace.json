@@ -1,0 +1,22 @@
+{
+  "marketplace": {
+    "name": "Marketplace Name",
+    "id": "Marketplace Number",
+    "code": "Marketplace Code",
+    "currency": "Default Currency",
+    "currency.inr": "Indian Rupees",
+    "currency.usd": "US Dollars",
+    "currency.ukp": "British Pounds",
+    "currency.eur": "Euros",
+    "avatar": "Marketplace Image",
+    "date": "Order Date",
+    "status": "Current Status",
+    "status.all": "All Statuses",
+    "status.active": "Active",
+    "status.inactive": "Inactive",
+    "nameRequired": "Please enter the name of the marketplace",
+    "idRequired": "Please enter the marketplace number",
+    "codeRequired": "Please enter the marketplace code",
+    "statusRequired": "Please choose the status"
+  }
+}
