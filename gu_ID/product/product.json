@@ -1,0 +1,28 @@
+{
+  "product": {
+    "title": "Product Title",
+    "currency": "Currency",
+    "avatar": "Image",
+    "price": "Price",
+    "id": "Product ID",
+    "sku": "Product SKU",
+    "hscode": "HSN Code",
+    "code": "Product SKU",
+    "allocation": "Percentage Allocation",
+    "qty": "Quantity in Stock",
+    "leadtime": "Shipping Lead Time",
+    "channel": "Sales Channel",
+    "status": "Current Status",
+    "status.all": "All Statuses",
+    "status.active": "Active",
+    "status.inactive": "Inactive",
+    "nameRequired": "Please enter the product name",
+    "idRequired": "Please enter the product ID",
+    "codeRequired": "Please enter the product code",
+    "allocationRequired": "Please enter the percentage allocation",
+    "statusRequired": "Please select the current status",
+    "valueRequired": "Please enter a value",
+    "leadtimeRequired": "Please enter the lead time for shipping",
+    "qtyRequired": "Please enter the quantity in stock"
+  }
+}
