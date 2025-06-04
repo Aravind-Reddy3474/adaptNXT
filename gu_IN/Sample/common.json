@@ -1,0 +1,19 @@
+{
+  "common": {
+    "okText": "સரி",
+    "closeText": "બંધ કરો",
+    "cancelText": "રદ કરો",
+    "loadingText": "તઝડી રહ્યું છે...",
+    "saveText": "સંચય કરો",
+    "delText": "જીરૂ કરો",
+    "resetText": "પુનરસુખ કરો",
+    "searchText": "શોધો",
+    "queryText": "શોધો",
+    "inputText": "કૃપા કરીને લખો",
+    "chooseText": "કૃપા કરીને પસંદ કરો",
+    "redo": "તાજું કરો",
+    "back": "પાછા",
+    "light": "લાઇટ",
+    "dark": "સાંધળી"
+  }
+}
