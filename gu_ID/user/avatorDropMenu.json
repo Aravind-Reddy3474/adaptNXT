@@ -1,0 +1,8 @@
+{
+  "header.avator.account": "My Account",
+  "header.avator.logout": "Log Out",
+  "global.theme.switchTheme": "Change Theme",
+  "global.theme.switchingTheme": "Changing Theme...",
+  "global.theme.switchThemeDone": "Theme updated successfully!",
+  "global.theme.switchThemeFail": "Failed to update theme"
+}
