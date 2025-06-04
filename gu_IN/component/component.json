@@ -1,0 +1,11 @@
+{
+  "component": {
+    "search.request": "વિનંતી",
+    "search.reset": "પુનઃપ્રારંભ",
+    "search.export": "નિકાસ",
+    "search.name": "નાame",
+    "search.sex": "જાતિ",
+    "search.male": "પુરુષ",
+    "search.female": "મહિला"
+  }
+}
