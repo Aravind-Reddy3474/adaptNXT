@@ -1,0 +1,30 @@
+{
+  "orderitem": {
+    "name": "Name of the Item",
+    "id": "Order Number",
+    "channel": "Sales Channel",
+    "courier": "Delivery Service",
+    "value": "Total Amount",
+    "date": "Date of Order",
+    "sku": "Stock Keeping Unit",
+    "qty": "Quantity of Items",
+    "returnqty": "Quantity for Return",
+    "acceptqty": "Quantity Accepted",
+    "rejectqty": "Quantity Rejected",
+    "price": "Price of Item",
+    "sub_total": "Subtotal",
+    "total": "Grand Total",
+    "addr": "Delivery Address",
+    "zipcode": "Postal Code",
+    "status": "Current Status",
+    "status.all": "All Statuses",
+    "status.pending": "Waiting for Confirmation",
+    "status.confirmed": "Confirmed",
+    "status.cancelled": "Cancelled",
+    "status.shipped": "On the Way",
+    "nameRequired": "Please enter the item name",
+    "idRequired": "Please enter the order number",
+    "statusRequired": "Please choose a status",
+    "valueRequired": "Please enter an amount"
+  }
+}
