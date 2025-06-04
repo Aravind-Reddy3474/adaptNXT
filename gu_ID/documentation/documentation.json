@@ -1,0 +1,14 @@
+{
+  "documentation": {
+    "introduction.title": "Welcome",
+    "introduction.description": "PointNXT is a high-level background management system template that uses React and Ant Design. It utilizes the latest React Hooks API rather than the traditional class-based API. TypeScript is also included to make the code easier to read and maintain, which boosts development efficiency. We use Redux for global state management. This project helps you quickly create a new template and modify the code as you see fit. Even if you don't plan to use templates, this project is a great resource for learning React and TypeScript. Additionally, if you believe there are areas for improvement or changes needed, feel free to reach out; my contact info is at the end of the article.",
+    "catalogue.title": "Table of Contents",
+    "catalogue.description": "Click on the table of contents to easily find what you're looking for",
+    "catalogue.list.layout": "Layout",
+    "catalogue.list.routes": "Routes",
+    "catalogue.list.request": "HTTP Request",
+    "catalogue.list.theme": "Theme",
+    "catalogue.list.typescript": "TypeScript",
+    "catalogue.list.international": "International"
+  }
+}
