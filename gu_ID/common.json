@@ -1,0 +1,19 @@
+{
+  "common": {
+    "okText": "Alright",
+    "closeText": "Close",
+    "cancelText": "Cancel",
+    "loadingText": "Loading...",
+    "saveText": "Save",
+    "delText": "Delete",
+    "resetText": "Reset",
+    "searchText": "Search",
+    "queryText": "Search",
+    "inputText": "Please type here",
+    "chooseText": "Please select",
+    "redo": "Refresh",
+    "back": "Back",
+    "light": "Light",
+    "dark": "Dark"
+  }
+}
