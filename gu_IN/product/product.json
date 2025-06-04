@@ -1,0 +1,28 @@
+{
+  "product": {
+    "title": "ટાઇટલ",
+    "currency": "મુદ્રા",
+    "avatar": "છબી",
+    "price": "મૂલ્ય",
+    "id": "ઉત્પાદન આઈડી",
+    "sku": "ઉત્પાદન SKU",
+    "hscode": "HSN કોડ",
+    "code": "ઉત્પાદન SKU",
+    "allocation": "% ફાળવણી",
+    "qty": "સ્ટોકમાં મોજૂદ",
+    "leadtime": "શિપ કરવા માટેનો સમય",
+    "channel": "ચેનલ",
+    "status": "સ્થિતિ",
+    "status.all": "બધા",
+    "status.active": "સક્રિય",
+    "status.inactive": "નિષ્ક્રિય",
+    "nameRequired": "કૃપા કરીને ઉત્પાદનનું નામ દાખલ કરો",
+    "idRequired": "કૃપા કરીને ઉત્પાદનનો નંબર દાખલ કરો",
+    "codeRequired": "કૃપા કરીને ઉત્પાદનનો કોડ દાખલ કરો",
+    "allocationRequired": "કૃપા કરીને % ફાળવણી દાખલ કરો",
+    "statusRequired": "કૃપા કરીને સક્રિય સ્થિતિની પસંદગી કરો",
+    "valueRequired": "કૃપા કરીને એક મૂલ્ય દાખલ કરો",
+    "leadtimeRequired": "કૃપા કરીને શિપ કરવા માટેનો સમય દાખલ કરો",
+    "qtyRequired": "કૃપા કરી સ્ટોકમાં મોજૂદ દાખલ કરો"
+  }
+}
