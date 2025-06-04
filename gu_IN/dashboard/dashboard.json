@@ -1,0 +1,27 @@
+{
+  "dashboard": {
+    "overview.totalSales": "કુલ વેચાણ",
+    "overview.visits": "વિવિધ પ્રસંગો",
+    "overview.orders": "ઓર્ડરો",
+    "overview.payments": "પેમેન્ટ્સ",
+    "overview.sales": "વેચાણ",
+    "overview.operationalEffect": "ક્રિયાત્મક અસર",
+    "overview.wowChange": "હપ્‍તા પર હુકમ બદલાવ",
+    "overview.weekly": "બાણવાર",
+    "overview.monthly": "માસિક",
+    "overview.dodChange": "દિવસે દિવસ બદલાવ",
+    "overview.dailySales": "દિવસનું વેચાણ",
+    "overview.dailyOrders": "દિવસના ઓર્ડર",
+    "overview.visits.dailyVisits": "દિવસના પ્રસંગો",
+    "overview.conversionRate": "ગણનાનો દર",
+    "salePercent.proportionOfSales": "વેચાણનો અંશ",
+    "salePercent.all": "સમસ્ત",
+    "salePercent.online": "ઓનલાઇન",
+    "salePercent.offline": "અફલાઇન",
+    "salePercent.cod": "કેશ ઑન ડિલિવરી",
+    "timeline.traffic": "ટ્રાફિક",
+    "timeline.payments": "પેમેન્ટ્સ",
+    "timeline.orders": "ઓર્ડરો",
+    "timeline.sales": "વેચાણ"
+  }
+}
