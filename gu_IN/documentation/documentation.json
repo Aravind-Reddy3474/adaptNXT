@@ -1,0 +1,14 @@
+{
+  "documentation": {
+    "introduction.title": "પરિચય",
+    "introduction.description": "PointNXT એ રિએક્ટ અને એન્ટ-ડિઝાઇન પર આધારિત એન્ટરપ્રાઇઝ-સ્તરના પૃષ્ઠભૂમિ વ્યવસ્થાપન વ્યવસ્થાને模ટળી છે. પરંપરાગત ક્લાસ API કરતા નવીનતમ રિએક્ટ હૂક API નો ઉપયોગ કરો, ટાઇપસ્ક્રિપ્ટનો પણ ઉપયોગ કરો જેથી કરીને કોડના પઢવા અને જાળવણીમાં એકસરખીતા રહે, વિકાસ કાર્યક્ષમતામાં વધારો કરવામાં આવે. વૈશ્વિક રાજ્ય વ્યવસ્થાપન ગ્રંથાલય તરીકે રેડક્સનો ઉપયોગ કરો. આ પ્રોજેક્ટ allows you to quickly develop a new project template and remove some of the code according to your needs. જો તમને ટૅમ્પલેટનો ઉપયોગ કરવાની જરૂર ન હોય, તો આ પ્રોજેક્ટ પણ રિએક્ટ અને ટાઇપસ્ક્રિપ્ટ શીખવા માટે થોડા સમયે સારું સંસાધન હશે. ઉપરાંત, જો તમને લાગે છે કે આ પ્રોજેક્ટને સુધારવું અથવા ફેરફારવું જરૂરી છે, તો કૃપા કરીને આવી છે, મારી સંપર્ક માહિતી લેખના નીચે બતાવવામાં આવશે.",
+    "catalogue.title": "કેટલોડ",
+    "catalogue.description": "નિશ્ચિત સામગ્રી સુધી ઝડપથી પહોંચવા માટે કેટલોડ પર ક્લિક કરો",
+    "catalogue.list.layout": "લેઔટ",
+    "catalogue.list.routes": "રુટ્સ",
+    "catalogue.list.request": "HTTP વિનંતી",
+    "catalogue.list.theme": "થિમ",
+    "catalogue.list.typescript": "ટાઇપસ્ક્રિપ્ટ",
+    "catalogue.list.international": "અંતરરાષ્ટ્રીય"
+  }
+}
