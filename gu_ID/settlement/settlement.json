@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "Settlement Identifier",
+    "amountType": "Type of Amount",
+    "amountDescription": "Description of Amount",
+    "amount": "Total Amount",
+    "orderAmount": "Amount of Order",
+    "expense": "Costs",
+    "settlementAmount": "Amount to Settle",
+    "quantityPurchased": "Quantity Bought"
+  }
+}
