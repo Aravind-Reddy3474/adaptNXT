@@ -1,0 +1,12 @@
+{
+  "settlement": {
+    "id": "સમારક આઈડી",
+    "amountType": "પ્રમાણ પ્રકાર",
+    "amountDescription": "પ્રમાણ વર્ણન",
+    "amount": "પ્રમાણ",
+    "orderAmount": "ઓર્ડર ಪ್ರಮાણ",
+    "expense": "લેણદેણ",
+    "settlementAmount": "સમારક આગળ",
+    "quantityPurchased": "ખરીદેલી માત્રા"
+  }
+}
