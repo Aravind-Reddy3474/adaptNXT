@@ -1,0 +1,11 @@
+{
+  "component": {
+    "search.request": "అరస్కించండి",
+    "search.reset": "పునఃప్రారంభించండి",
+    "search.export": "రఫుల్ చేయండి",
+    "search.name": "పేరు",
+    "search.sex": "లింగం",
+    "search.male": "పురుషుడు",
+    "search.female": "స్త్రీ"
+  }
+}
