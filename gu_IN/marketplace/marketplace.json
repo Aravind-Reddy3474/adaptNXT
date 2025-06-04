@@ -1,0 +1,22 @@
+{
+  "marketplace": {
+    "name": "નામ",
+    "id": "નંબર",
+    "code": "કોડ",
+    "currency": "ડિફોલ્ટ કરન્સી",
+    "currency.inr": "ભારતીય રૂપિયામાં",
+    "currency.usd": "યુએસ ડોલર્સ",
+    "currency.ukp": "બ્રિટિશ પાઉન્ડ",
+    "currency.eur": "યુરો",
+    "avatar": "છબી",
+    "date": "ઓર્ડર તારીખ",
+    "status": "સ્થિતિ",
+    "status.all": "બધા",
+    "status.active": "એક્ટિવ",
+    "status.inactive": "નિષ્ક્રિય",
+    "nameRequired": "કૃપા કરીને માર્કેટપ્લેસનું નામ દાખલ કરો",
+    "idRequired": "કૃપા કરીને માર્કેટપ્લેસનો નંબર દાખલ કરો",
+    "codeRequired": "કૃપા કરીને કોડ દાખલ કરો",
+    "statusRequired": "કૃપા કરીને સક્રિય સ્થિતિ નિપાયેલા સપાટી પસંદ કરો"
+  }
+}
