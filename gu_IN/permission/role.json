@@ -1,0 +1,13 @@
+{
+  "permission": {
+    "role.name": "ાભ્યાસનું નામ",
+    "role.code": "ભાવનું કોડ",
+    "role.status": "સ્થિતિ",
+    "role.status.all": "બધાં",
+    "role.status.enabled": "સક્રિય",
+    "role.status.disabled": "નસક્રિય",
+    "role.nameRequired": "કૃપા કરીને અભ્યાસનું નામ દાખલ કરો",
+    "role.codeRequired": "કૃપા કરીને અભ્યાસનું કોડ દાખલ કરો",
+    "role.statusRequired": "કૃપા કરીને સક્રિય હાલત પસંદ કરો"
+  }
+}
