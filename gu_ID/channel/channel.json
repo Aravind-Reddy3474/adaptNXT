@@ -1,0 +1,32 @@
+{
+  "channel": {
+    "name": "Name of the Channel",
+    "subname": "Subname",
+    "code": "Code for the Channel",
+    "type": "Type of Channel",
+    "url": "Website Link",
+    "key": "API Key",
+    "secret": "API Secret",
+    "seller": "Vendor",
+    "token": "Access Token",
+    "location": "Location",
+    "avatar": "Picture",
+    "date": "Date of Order",
+    "status": "Current Status",
+    "status.all": "All Options",
+    "status.active": "Currently Active",
+    "status.inactive": "Currently Inactive",
+    "manageStock": "Stock Management",
+    "manageState": "Sync Order Status",
+    "nameRequired": "Please enter the channel name",
+    "codeRequired": "Please enter the channel code",
+    "statusRequired": "Please choose the current status",
+    "typeRequired": "Please select the type of channel",
+    "urlRequired": "Please enter the API link",
+    "keyRequired": "Please enter the API key",
+    "secretRequired": "Please enter the API secret",
+    "tokenRequired": "Please enter the API token",
+    "locationRequired": "Please enter the channel location ID",
+    "sellerRequired": "Please enter the seller ID for the channel"
+  }
+}
