@@ -1,0 +1,27 @@
+{
+  "dashboard": {
+    "overview.totalSales": "మొత్తం అమ్మకాలు",
+    "overview.visits": "భ్రమణాలు",
+    "overview.orders": "ఆర్డర్లు",
+    "overview.payments": "செலుచులు",
+    "overview.sales": "అమ్మకాలు",
+    "overview.operationalEffect": "కార్యాచరణ ప్రభావం",
+    "overview.wowChange": "వీగన్ మార్పు",
+    "overview.weekly": "సప్తాహిక",
+    "overview.monthly": "మాసిక",
+    "overview.dodChange": "రోజు మార్పు",
+    "overview.dailySales": "రోజుకోళ్ల అమ్మకాలు",
+    "overview.dailyOrders": "రోజుకోళ్ల ఆర్డర్లు",
+    "overview.visits.dailyVisits": "రోజుకోళ్ల భ్రమణాలు",
+    "overview.conversionRate": "మార్పు రేటు",
+    "salePercent.proportionOfSales": "అమ్మకాల శాతం",
+    "salePercent.all": "అన్నీ",
+    "salePercent.online": "ఆన్‌లైన్",
+    "salePercent.offline": "ఆఫ్‌లైన్",
+    "salePercent.cod": "కాష్ ఆన్ డెలివరి",
+    "timeline.traffic": "చలనం",
+    "timeline.payments": "செலుచులు",
+    "timeline.orders": "ఆర్డర్లు",
+    "timeline.sales": "అమ్మకాలు"
+  }
+}
