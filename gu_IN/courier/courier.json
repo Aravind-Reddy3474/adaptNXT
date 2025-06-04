@@ -1,0 +1,18 @@
+{
+  "courier": {
+    "name": "કુરિયરનું નામ",
+    "pickupLocation": "પિકઅપ સ્થળ",
+    "id": "કુરિયર નહિ",
+    "code": "કોડ",
+    "avatar": "ચિત્ર",
+    "date": "આદેશ તારીખ",
+    "status": "ગણના",
+    "status.all": "બધા",
+    "status.active": "કાર્યરત",
+    "status.inactive": "નિષ્ક્રિય",
+    "nameRequired": "કુરિયરના નામની માહિતી આપો",
+    "idRequired": "કુરિયર નંબરની માહિતી આપો",
+    "codeRequired": "કોડની માહિતી આપો",
+    "statusRequired": "કાર્યરત સ્થિતિ પસંદ કરો"
+  }
+}
